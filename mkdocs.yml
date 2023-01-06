@@ -1,6 +1,17 @@
 site_name: Tejado Solar (Black Roof Style)
 site_url: https://asolear.es/TejadoSolar
 
+nav:
+  - Section:
+    - section/index.md
+    - Page 1: section/page-1.md
+    - Page n: section/page-n.md
+
+
+
+
+
+
 theme:
   # palette:
   #   primary: white
