@@ -15,11 +15,6 @@ hide:
 
 
 
-[[![Image title](image/panel-158630.svg){ align=right width=99}⌛ Plan, design, and optimize the PV plant engineering process. End-to-end. Maximize profitability.](#){ .md-button  }
-
-
-
-
 <style>
 body { 
     /* background-image: url('image/Wavy_REst-03_Single-07.jpg');  */
