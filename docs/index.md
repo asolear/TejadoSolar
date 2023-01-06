@@ -10,7 +10,7 @@ hide:
 <style>
 .whatsapp-button {
   position: fixed;
-  bottom: 15px;
+  bottom: 25px;
   right: 15px;
   z-index: 99;
   background-color: #25d366;
