@@ -10,28 +10,16 @@ hide:
 
 
 
-[![Image title](assets/logo.svg){ align=left width=66} Estilo Black Roof, negro totalmente integrado.tags on separate lines and adding new lines between the tags and the content.](#){ .md-button }
+[![Image title](assets/logo.svg){ align=left width=66} Estilo Black Roof, negro totalmente integrado.tags on separate lines and adding new lines between the tags and the content.](#){ .md-button .md-button--primary }
 
 
 
 
 [[![Image title](assets/logo.svg){ align=right width=99}⌛ Plan, design, and optimize the PV plant engineering process. End-to-end. Maximize profitability.
-tags on separate lines and adding new lines between the tags and the content.](#){ .md-button }
-
-
-# 
-
-
-[📊 Plan, design, and optimize the PV plant engineering process. End-to-end. Maximize profitability.
-tags on separate lines and adding new lines between the tags and the content.Documentacion en (pdf, Excel y Autocad) ](#){ .md-button }
+tags on separate lines and adding new lines between the tags and the content.](#){ .md-button .md-button--primary }
 
 
 
-
-
-[📺 Demo\_\_\_\_](#){ .md-button }
-
-[ 🙋‍♀️ FAQ](#){ .md-button }
 
 <style>
 body { 
@@ -42,8 +30,8 @@ body {
     background-attachment: fixed; 
     background-size: 100% 100%; 
     } 
-.md-copyright:not([hidden]) {
-    display: none
+/* .md-copyright:not([hidden]) {
+    display: none */
 }
 </style>
 

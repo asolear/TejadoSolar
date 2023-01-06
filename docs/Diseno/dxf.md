@@ -2,10 +2,7 @@
 hide:
   - footer
   - toc
-
-
 ---
-
 <style> 
 input[type=email] {
   width: 100%;
@@ -43,14 +40,10 @@ input[type=submit], input[type=submit], input[type=reset] {
   cursor: pointer;
 }
 </style>
-# 
-
- [⬇️  Descargar DXF de muestra.](./muestra.dxf){: download  .md-button}
-
-
+#
+ [⬇️  Descargar DXF de muestra.](./muestra.dxf){: download  .md-button .md-button--primary}
 
 ## Subir archivo DXF
-
 
 <form action="https://formsubmit.co/admin@asolear.es" method="POST" enctype="multipart/form-data">
   <!-- comandos -->
@@ -95,7 +88,3 @@ input[type=submit], input[type=submit], input[type=reset] {
     - Legitimación: tu consentimiento.
     - Destinatarios: tus datos se guardarán en nuestro proveedor de email que también cumple con el RGPD.
     - Derechos: tienes derecho a acceder, rectificar, limitar y suprimir tus datos en cualquier momento.
-
-
-
-

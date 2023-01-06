@@ -2,8 +2,9 @@ site_name: 🏡🔌🔆 Tejado Solar (Black Roof Design)
 site_url: https://asolear.es/TejadoSolar
 
 theme:
-  palette:
-    primary: yellow
+  # palette:
+  #   primary: white
+
   name: material
   language: es
   favicon: assets/logo.svg
@@ -16,6 +17,7 @@ theme:
     - navigation.top
     - navigation.expand
     - navigation.footer
+    - toc.integrate 
     # - navigation.indexes 
 markdown_extensions:
   - meta
