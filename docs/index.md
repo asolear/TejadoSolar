@@ -12,8 +12,13 @@ hide:
 
 ## [![Image title](image/electricity-1298849.svg){ align=left width=66}  Black Roof Style ](Diseno/coordenadas.md){ .md-button }
 
+{==
 
+- Estética mejorada con paneles antireflejos y totalmente negros para reducir el impacto visual.
 
+- Enhanced aesthetics with non-reflective all black solar panels are used to reduce the visual impact.
+
+==}
 
 <style>
 body { 

@@ -37,15 +37,16 @@ input[type=submit], input[type=submit], input[type=reset] {
 }
 </style>
 
-# Proyecto con sola las Coordenadas
+# 
 
-??? Info "**🚀 Caracteristicas** "
+[Give us your site and email](#){ .md-button }
+
+
 
 
 
   <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
-<label >Marque en el mapa la ubicacion de la instalacion</label>
 <div id="map" style="width: 100%; height: 400px;"></div>
 
 <form action="https://formsubmit.co/admin@asolear.es" method="POST" enctype="multipart/form-data">
