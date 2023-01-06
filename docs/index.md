@@ -4,15 +4,11 @@ hide:
   - navigation
   - toc
 ---
-#
-
-### [![Image title](image/electricity-1298849.svg){ align=left width=66}  Black Roof </br> <p style="color:red;">CONTACT</p> ](Diseno/coordenadas.md){ .md-button }
+### [![Image title](image/electricity-1298849.svg)  Black Roof `</br>` `<p style="color:red;">Estudio <br> gratuito</p>` ](Diseno/coordenadas.md)
 
 {==
 
 - Estética mejorada con paneles antireflejos y totalmente negros para reducir el impacto visual.
-
-- Enhanced aesthetics with non-reflective all black solar panels are used to reduce the visual impact.
 
 ==}
 
@@ -30,8 +26,8 @@ body {
 }
 </style>
 
-
 <script src="https://kit.fontawesome.com/1cf483120b.js" crossorigin="anonymous"></script>
+
 <style>
 .whatsapp-button {
   position: fixed;
