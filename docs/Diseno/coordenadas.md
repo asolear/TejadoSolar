@@ -40,7 +40,7 @@ input[type=submit], input[type=submit], input[type=reset] {
 
 # 
 
-[Give us your site and email](#){ .md-button }
+[Denos su direccion y correo ](#){ .md-button }
 
 
 
