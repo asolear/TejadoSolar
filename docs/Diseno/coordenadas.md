@@ -1,11 +1,51 @@
+---
+hide:
+  - footer
+  - toc
+
+
+---
+
+
+<style> 
+input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color:  #fcf3cf
+ ;
+  color: black;
+}
+
+select {
+  width: 100%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+input[type=submit], input[type=submit], input[type=reset] {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+
 # Proyecto con sola las Coordenadas
 
 ??? Info "**🚀 Caracteristicas** "
 
 
 
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
+<label >Marque en el mapa la ubicacion de la instalacion</label>
 <div id="map" style="width: 100%; height: 400px;"></div>
 
 <form action="https://formsubmit.co/admin@asolear.es" method="POST" enctype="multipart/form-data">
@@ -25,9 +65,6 @@
       <div class="column"></div>
       <label for="email">Email</label>
       <input name='email' type="email" class="form-control" id="email" placeholder="Enter email" required>
-      <br>
-      <label >Marque en el mapa la ubicacion de la instalacion</label>
-      <br>
       <!-- <label for="exampleFormControlInput1" class="form-label">Adjuntar DXF:</label>
       <input type="file" id="myfile" name="cv" multiple><br><br> -->
       <label><input type="checkbox" class="agree" required> Acepto la Política

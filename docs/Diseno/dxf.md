@@ -1,11 +1,56 @@
-# 
+---
+hide:
+  - footer
+  - toc
+
 
 ---
 
+<style> 
+input[type=email] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color:  #fcf3cf;
+  color: black;
+}
+input[type=file] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color:  #fcf3cf;
+  color: black;
+}
+
+select {
+  width: 100%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+input[type=submit], input[type=submit], input[type=reset] {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+# 
+
+ [⬇️  Descargar DXF de muestra.](./muestra.dxf){: download  .md-button}
+
+
+
 ## Subir archivo DXF
 
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
 <form action="https://formsubmit.co/admin@asolear.es" method="POST" enctype="multipart/form-data">
   <!-- comandos -->
@@ -41,7 +86,16 @@
 
 ---
 
+??? warning "Politica de Privacidad "
+
+    En Proyecto Solar cumplimos con el RGPD (Reglamento General de Protección de Datos):
+
+    - Responsable: Proyecto Solar SL.
+    - Finalidad: responder a tu mensaje enviado desde este formulario de contacto.
+    - Legitimación: tu consentimiento.
+    - Destinatarios: tus datos se guardarán en nuestro proveedor de email que también cumple con el RGPD.
+    - Derechos: tienes derecho a acceder, rectificar, limitar y suprimir tus datos en cualquier momento.
 
 
 
-## [⬇️  Descargar DXF de muestra.](./muestra.dxf){: download }
+

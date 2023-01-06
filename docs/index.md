@@ -1,3 +1,11 @@
+---
+hide:
+  - footer
+  - navigation
+  - toc
+
+
+---
 #
 
 {==
@@ -45,19 +53,20 @@ tags on separate lines and adding new lines between the tags and the content.
 <style> 
 
 body { 
-    background-image: url('image/Peek 2023-01-05 12-22.gif'); 
+    /* background-image: url('image/Peek 2023-01-06 12-27.gif');  */
+    background-image: url('image/Screenshot from 2023-01-06 12-14-15.png'); 
     /* background-image: url('image/Peek 2023-01-05 19-19.gif');  */
     background-repeat: no-repeat; 
     background-attachment: fixed; 
     background-size: 100% 100%; 
     } 
 
-.md-footer__inner:not([hidden]) {
+/* .md-footer__inner:not([hidden]) {
     display: none
 }
 
 .md-copyright:not([hidden]) {
     display: none
-}
+} */
 
 </style>

@@ -1,4 +1,4 @@
-site_name: 🏡🔌🔆 Proyecto Solar
+site_name: 🏡🔌🔆 Tejado Solar (Black Roof Design)
 site_url: https://asolear.es/TejadoSolar
 
 theme:
@@ -11,10 +11,12 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.sections
     - content.tabs.link
     - navigation.top
     - navigation.expand
     - navigation.footer
+    # - navigation.indexes 
 markdown_extensions:
   - meta
   - tables
@@ -36,6 +38,7 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/squidfunk
+      name: squidfunk on Twitter
     # - icon: fontawesome/brands/facebook
     #   link: https://twitter.com/squidfunk
     # - icon: fontawesome/brands/github
@@ -48,6 +51,8 @@ extra:
     #   link: https://twitter.com/squidfunk
     - icon: fontawesome/brands/telegram
       link: https://web.telegram.org/z/#-1851009774
-# copyright: "Copyright 2023 Proyecto Solar"
+      name: squidfunk on Twitter
+
+copyright: "Copyright 2023 Tejado Solar"
 
 # 🗺💡
