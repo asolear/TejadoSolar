@@ -10,7 +10,7 @@ hide:
 
 
 
-# [![Image title](assets/logo.svg){ align=left width=66} Estilo Black Roof, negro totalmente integrado.tags on separate lines and adding new lines between the tags and the content.](#){ .md-button }
+[![Image title](assets/logo.svg){ align=left width=66} Estilo Black Roof, negro totalmente integrado.tags on separate lines and adding new lines between the tags and the content.](#){ .md-button }
 
 
 
