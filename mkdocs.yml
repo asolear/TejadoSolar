@@ -3,7 +3,7 @@ site_url: https://asolear.es/TejadoSolar
 
 nav:
   - Home: index.md
-  - Servicios: Diseno/coordenadas.md
+  - Servicios: LandingPage/Servicios.md
   - About Us: Diseno/coordenadas.md
   - Blog: Diseno/coordenadas.md
   - Contacto: Diseno/coordenadas.md

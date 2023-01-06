@@ -2,6 +2,7 @@
 hide:
   - footer
   - toc
+  - navigation
 
 
 ---
