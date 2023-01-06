@@ -8,43 +8,26 @@ hide:
 
 #
 
-{==
 
-# Estilo Black Roof, negro totalmente integrado.
 
-tags on separate lines and adding new lines between the tags and the content.
+# [![Image title](assets/logo.svg){ align=left width=66} Estilo Black Roof, negro totalmente integrado.tags on separate lines and adding new lines between the tags and the content.](#){ .md-button }
 
-==}
 
-# [📝 Demo](#){ .md-button }
 
-{==
 
-# ⌛ Plan, design, and optimize the PV plant engineering process. End-to-end. Maximize profitability.
+[[![Image title](assets/logo.svg){ align=right width=99}⌛ Plan, design, and optimize the PV plant engineering process. End-to-end. Maximize profitability.
+tags on separate lines and adding new lines between the tags and the content.](#){ .md-button }
 
-tags on separate lines and adding new lines between the tags and the content.
 
-==}
+# 
 
-[⌛ Diseno FV ( DXF o Lat/Lon)](#){ .md-button }
 
-{==
+[📊 Plan, design, and optimize the PV plant engineering process. End-to-end. Maximize profitability.
+tags on separate lines and adding new lines between the tags and the content.Documentacion en (pdf, Excel y Autocad) ](#){ .md-button }
 
-# Plan, design, and optimize the PV plant engineering process. End-to-end. Maximize profitability.
 
-tags on separate lines and adding new lines between the tags and the content.
 
-==}
 
-[📊 Documentacion en (pdf, Excel y Autocad) ](#){ .md-button }
-
-{==
-
-# Plan, design, and optimize the PV plant engineering process. End-to-end. Maximize profitability.
-
-tags on separate lines and adding new lines between the tags and the content.
-
-==}
 
 [📺 Demo\_\_\_\_](#){ .md-button }
 

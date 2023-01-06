@@ -3,7 +3,7 @@ site_url: https://asolear.es/TejadoSolar
 
 theme:
   palette:
-    primary: red
+    primary: yellow
   name: material
   language: es
   favicon: assets/logo.svg
