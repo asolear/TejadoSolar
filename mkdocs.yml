@@ -1,0 +1,53 @@
+site_name: 🏡🔌🔆 Proyecto Solar
+site_url: https://asolear.es/ProyectoSolar
+
+theme:
+  palette:
+    primary: red
+  name: material
+  language: es
+  favicon: assets/logo.svg
+  logo: assets/logo.svg
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.tabs.link
+    - navigation.top
+    - navigation.expand
+    - navigation.footer
+markdown_extensions:
+  - meta
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/squidfunk
+    # - icon: fontawesome/brands/facebook
+    #   link: https://twitter.com/squidfunk
+    # - icon: fontawesome/brands/github
+    #   link: https://twitter.com/squidfunk
+    # - icon: fontawesome/brands/slack
+    #   link: https://twitter.com/squidfunk
+    # - icon: fontawesome/brands/linkedin
+    #   link: https://twitter.com/squidfunk
+    # - icon: fontawesome/brands/product-hunt
+    #   link: https://twitter.com/squidfunk
+    - icon: fontawesome/brands/telegram
+      link: https://web.telegram.org/z/#-1851009774
+# copyright: "Copyright 2023 Proyecto Solar"
+
+# 🗺💡
