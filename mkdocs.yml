@@ -3,15 +3,10 @@ site_url: https://asolear.es/TejadoSolar
 
 nav:
   - Home: index.md
-  - Servicios: section/page-n.md
-  - About Us: section/page-n.md
-  - Blog: section/page-n.md
+  - Servicios: Diseno/coordenadas.md
+  - About Us: Diseno/coordenadas.md
+  - Blog: Diseno/coordenadas.md
   - Contacto: Diseno/coordenadas.md
-
-
-
-
-
 
 theme:
   # palette:
@@ -29,8 +24,8 @@ theme:
     - navigation.top
     - navigation.expand
     - navigation.footer
-    - toc.integrate 
-    # - navigation.indexes 
+    - toc.integrate
+    # - navigation.indexes
 markdown_extensions:
   - meta
   - tables
@@ -68,5 +63,4 @@ extra:
       name: squidfunk on Twitter
 
 copyright: "Copyright 2023 Tejado Solar"
-
 # 🗺💡
