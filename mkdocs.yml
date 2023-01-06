@@ -1,11 +1,12 @@
-site_name: Tejado Solar (Black Roof Style)
+site_name: Tejado Solar      (Atención al cliente 600 366 211)
 site_url: https://asolear.es/TejadoSolar
 
 nav:
-  - Section:
-    - section/index.md
-    - Page 1: section/page-1.md
-    - Page n: section/page-n.md
+  - Home: index.md
+  - Servicios: section/page-n.md
+  - About Us: section/page-n.md
+  - Blog: section/page-n.md
+  - Contacto: Diseno/coordenadas.md
 
 
 
