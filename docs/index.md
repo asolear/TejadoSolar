@@ -10,21 +10,20 @@ hide:
 
 
 
-[![Image title](assets/logo.svg){ align=left width=66} Estilo Black Roof, negro totalmente integrado.tags on separate lines and adding new lines between the tags and the content.](#){ .md-button .md-button--primary }
+## [![Image title](image/electricity-1298849.svg){ align=left width=66}  Black Roof Style ](#){ .md-button }
 
 
 
 
-[[![Image title](assets/logo.svg){ align=right width=99}⌛ Plan, design, and optimize the PV plant engineering process. End-to-end. Maximize profitability.
-tags on separate lines and adding new lines between the tags and the content.](#){ .md-button .md-button--primary }
+[[![Image title](image/panel-158630.svg){ align=right width=99}⌛ Plan, design, and optimize the PV plant engineering process. End-to-end. Maximize profitability.](#){ .md-button  }
 
 
 
 
 <style>
 body { 
-    /* background-image: url('image/Peek 2023-01-06 12-27.gif');  */
-    background-image: url('image/Screenshot from 2023-01-06 12-14-15.png'); 
+    /* background-image: url('image/Wavy_REst-03_Single-07.jpg');  */
+    background-image: url('image/benjamin-jopen-p2GuLUu79Rg-unsplash.jpg'); 
     /* background-image: url('image/Peek 2023-01-05 19-19.gif');  */
     background-repeat: no-repeat; 
     background-attachment: fixed; 
