@@ -8,36 +8,8 @@ hide:
 ---
 
 
-<style> 
-input[type=email] {
-  width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-  border: none;
-  background-color:  #fcf3cf
- ;
-  color: black;
-}
-
-select {
-  width: 100%;
-  padding: 16px 20px;
-  border: none;
-  border-radius: 4px;
-  background-color: #f1f1f1;
-}
-input[type=submit], input[type=submit], input[type=reset] {
-  background-color: #04AA6D;
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-decoration: none;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-</style>
-
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 # 
 
 [Denos su direccion y correo ](#){ .md-button }
@@ -55,9 +27,9 @@ input[type=submit], input[type=submit], input[type=reset] {
   <input type="hidden" name="_template" value="table">
   <input type="hidden" name="_autoresponse" value="Muchas gracias, en breve le contactaremos.">
   <input class="form-control" type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_next" value="https://proyecto.solar">
+  <input type="hidden" name="_next" value="https://tejado.solar">
   <input type="hidden" name="_subject" value="PROYECTOSOLAR">
-  <input type="hidden" name="_autoresponse" value="Gracias, en breve le contactaremos.">
+  <!-- <input type="hidden" name="_autoresponse" value="Gracias, en breve le contactaremos."> -->
   <input type="hidden" name='lat' class="form-control" id="lat">
   <input type="hidden" name='lng' class="form-control" id="lng">
   <div class="col-sm-7">
@@ -112,7 +84,6 @@ input[type=submit], input[type=submit], input[type=reset] {
     'zoom': 8,
     'layers': [tileLayer]
   });
-  
 var marker = L.marker([36.664, -4.458]).addTo(map)
 		.bindPopup('INSTALACION FOTOVOLTAICA').openPopup();
 map.on('click', function (e) {
@@ -126,3 +97,8 @@ map.on('click', function (e) {
 </script>
 
 
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous">   
+</script>
