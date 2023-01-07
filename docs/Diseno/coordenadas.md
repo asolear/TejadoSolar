@@ -9,9 +9,7 @@ hide:
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 # 
 <div id="map" style="width: 100%; height: 400px;"></div>
-<label >Marque en el mapa la ubicacion de la instalacion</label>
-
-
+<label >Marque la ubicacion </label>
 
 <form action="https://formsubmit.co/admin@asolear.es" method="POST" enctype="multipart/form-data">
   <!-- comandos -->
@@ -27,7 +25,6 @@ hide:
     <div class="row">
       <div class="column">
       </div>
-      <br>
       <div class="column"></div>
       <br>
       <label for="email">Email</label>
@@ -49,8 +46,6 @@ hide:
     </div>
   </div>
 </form>
-
-
 
 ??? warning "Politica de Privacidad "
 
