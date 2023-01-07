@@ -19,7 +19,7 @@ hide:
   <input type="hidden" name="_autoresponse" value="Muchas gracias, en breve le contactaremos.">
   <input class="form-control" type="hidden" name="_captcha" value="false">
   <input type="hidden" name="_next" value="https://tejado.solar">
-  <input type="hidden" name="_subject" value="PROYECTOSOLAR">
+  <input type="hidden" name="_subject" value="TEJADO_SOLAR">
   <input type="hidden" name="_autoresponse" value="Gracias, en breve le contactaremos.">
   <input type="hidden" name='lat' class="form-control" id="lat">
   <input type="hidden" name='lng' class="form-control" id="lng">
