@@ -9,29 +9,47 @@ hide:
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 # 
 <div id="map" style="width: 100%; height: 400px;"></div>
+<label >Marque en el mapa la ubicacion de la instalacion</label>
+
+
 
 <form action="https://formsubmit.co/admin@asolear.es" method="POST" enctype="multipart/form-data">
   <!-- comandos -->
   <input type="hidden" name="_template" value="table">
   <input type="hidden" name="_autoresponse" value="Muchas gracias, en breve le contactaremos.">
   <input class="form-control" type="hidden" name="_captcha" value="false">
-  <!-- <input type="hidden" name="_next" value="https://tejado.solar"> -->
-  <input type="hidden" name="_next" value="Diseno/dxf.md">
-  <input type="hidden" name="_subject" value="TEJADOSOLAR">
-  <!-- <input type="hidden" name="_autoresponse" value="Gracias, en breve le contactaremos."> -->
+  <input type="hidden" name="_next" value="https://tejado.solar">
+  <input type="hidden" name="_subject" value="PROYECTOSOLAR">
+  <input type="hidden" name="_autoresponse" value="Gracias, en breve le contactaremos.">
   <input type="hidden" name='lat' class="form-control" id="lat">
   <input type="hidden" name='lng' class="form-control" id="lng">
-        <br>
-      <div class="form-group">
-        <input type="email" class="form-control" name='email' id="email"  aria-describedby="emailHelp" placeholder="Enter email" required>
-        <!-- <label for="exampleFormControlInput1" class="form-label">Adjuntar DXF:</label>
-        <input type="file" id="myfile" name="cv" multiple><br><br> -->
-        <br>
-        <input type="checkbox" class="agree" required> Acepto la Política de Privacidad.
+  <div class="col-sm-7">
+    <div class="row">
+      <div class="column">
       </div>
       <br>
+      <div class="column"></div>
+      <br>
+      <label for="email">Email</label>
+        <input type="email" class="form-control" name='email' id="email"  aria-describedby="emailHelp" placeholder="Enter email" required>
+      <br>
+      <br>
+      <!-- <label for="exampleFormControlInput1" class="form-label">Adjuntar DXF:</label>
+      <input type="file" id="myfile" name="cv" multiple><br><br> -->
+      <label><input type="checkbox" class="agree" required> Acepto la Política
+        de Privacidad.
+      <br>
+      <br>
       <button type="submit" class="btn btn-primary">Submit</button>
+      <div class="row">
+        <div class="col-sm-5">
+          <p><span class="glyphicon glyphicon-map-marker"></span> </p>
+        </div>
+      </div>
+    </div>
+  </div>
 </form>
+
 
 
 ??? warning "Politica de Privacidad "
