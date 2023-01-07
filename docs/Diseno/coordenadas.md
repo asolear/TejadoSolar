@@ -3,17 +3,10 @@ hide:
   - footer
   - toc
   - navigation
-
-
 ---
-
-
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 # 
-
-[Denos su direccion y correo ](#){ .md-button }
-
 <div id="map" style="width: 100%; height: 400px;"></div>
 
 <form action="https://formsubmit.co/admin@asolear.es" method="POST" enctype="multipart/form-data">
@@ -21,8 +14,9 @@ hide:
   <input type="hidden" name="_template" value="table">
   <input type="hidden" name="_autoresponse" value="Muchas gracias, en breve le contactaremos.">
   <input class="form-control" type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_next" value="https://tejado.solar">
-  <input type="hidden" name="_subject" value="PROYECTOSOLAR">
+  <!-- <input type="hidden" name="_next" value="https://tejado.solar"> -->
+  <input type="hidden" name="_next" value="Diseno/dxf.md">
+  <input type="hidden" name="_subject" value="TEJADOSOLAR">
   <!-- <input type="hidden" name="_autoresponse" value="Gracias, en breve le contactaremos."> -->
   <input type="hidden" name='lat' class="form-control" id="lat">
   <input type="hidden" name='lng' class="form-control" id="lng">
