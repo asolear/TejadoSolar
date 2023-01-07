@@ -407,7 +407,7 @@
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"></p>
 <h1 id="_1"></h1>
 <div id="map" style="width: 100%; height: 400px;"></div>
-<p><label >Marque en el mapa la ubicacion de la instalacion</label></p>
+<p><label >Marque la ubicacion </label></p>
 <form action="https://formsubmit.co/admin@asolear.es" method="POST" enctype="multipart/form-data">
   <!-- comandos -->
   <input type="hidden" name="_template" value="table">
@@ -422,7 +422,6 @@
     <div class="row">
       <div class="column">
       </div>
-      <br>
       <div class="column"></div>
       <br>
       <label for="email">Email</label>
@@ -435,7 +434,7 @@
         de Privacidad.
       <br>
       <br>
-      <button type="submit" class="btn btn-primary">Submit</button>
+      <button type="submit" class="btn btn-primary" onclick="document.getElementById('modal').click()">Submit</button>
       <div class="row">
         <div class="col-sm-5">
           <p><span class="glyphicon glyphicon-map-marker"></span> </p>
@@ -444,6 +443,28 @@
     </div>
   </div>
 </form>
+
+<!-- Button trigger modal -->
+<p><button hidden type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" id="modal">
+  Launch demo modal
+</button></p>
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Gracias por contactarnos</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>
 
 <details class="warning">
 <summary>Politica de Privacidad </summary>
