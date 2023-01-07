@@ -234,7 +234,7 @@
               
                 
               
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -419,26 +419,16 @@
   <!-- <input type="hidden" name="_autoresponse" value="Gracias, en breve le contactaremos."> -->
   <input type="hidden" name='lat' class="form-control" id="lat">
   <input type="hidden" name='lng' class="form-control" id="lng">
-  <div class="col-sm-7">
-    <div class="row">
-      <div class="column">
+        <br>
+      <div class="form-group">
+        <input type="email" class="form-control" name='email' id="email"  aria-describedby="emailHelp" placeholder="Enter email" required>
+        <!-- <label for="exampleFormControlInput1" class="form-label">Adjuntar DXF:</label>
+        <input type="file" id="myfile" name="cv" multiple><br><br> -->
+        <br>
+        <input type="checkbox" class="agree" required> Acepto la Política de Privacidad.
       </div>
-      <div class="column"></div>
-      <label for="email">Email</label>
-      <input name='email' type="email" class="form-control" id="email" placeholder="Enter email" required>
-      <!-- <label for="exampleFormControlInput1" class="form-label">Adjuntar DXF:</label>
-      <input type="file" id="myfile" name="cv" multiple><br><br> -->
-      <label><input type="checkbox" class="agree" required> Acepto la Política
-        de Privacidad.
       <br>
-      <input type="submit" value="Enviar">
-      <div class="row">
-        <div class="col-sm-5">
-          <p><span class="glyphicon glyphicon-map-marker"></span> </p>
-        </div>
-      </div>
-    </div>
-  </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 
 <details class="warning">
