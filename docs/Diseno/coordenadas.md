@@ -2,8 +2,9 @@
 hide:
   - footer
   - toc
-  - navigation
+  # - navigation
 ---
+
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 # 
@@ -20,26 +21,16 @@ hide:
   <!-- <input type="hidden" name="_autoresponse" value="Gracias, en breve le contactaremos."> -->
   <input type="hidden" name='lat' class="form-control" id="lat">
   <input type="hidden" name='lng' class="form-control" id="lng">
-  <div class="col-sm-7">
-    <div class="row">
-      <div class="column">
+        <br>
+      <div class="form-group">
+        <input type="email" class="form-control" name='email' id="email"  aria-describedby="emailHelp" placeholder="Enter email" required>
+        <!-- <label for="exampleFormControlInput1" class="form-label">Adjuntar DXF:</label>
+        <input type="file" id="myfile" name="cv" multiple><br><br> -->
+        <br>
+        <input type="checkbox" class="agree" required> Acepto la Política de Privacidad.
       </div>
-      <div class="column"></div>
-      <label for="email">Email</label>
-      <input name='email' type="email" class="form-control" id="email" placeholder="Enter email" required>
-      <!-- <label for="exampleFormControlInput1" class="form-label">Adjuntar DXF:</label>
-      <input type="file" id="myfile" name="cv" multiple><br><br> -->
-      <label><input type="checkbox" class="agree" required> Acepto la Política
-        de Privacidad.
       <br>
-      <input type="submit" value="Enviar">
-      <div class="row">
-        <div class="col-sm-5">
-          <p><span class="glyphicon glyphicon-map-marker"></span> </p>
-        </div>
-      </div>
-    </div>
-  </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 
 
@@ -52,11 +43,6 @@ hide:
     - Legitimación: tu consentimiento.
     - Destinatarios: tus datos se guardarán en nuestro proveedor de email que también cumple con el RGPD.
     - Derechos: tienes derecho a acceder, rectificar, limitar y suprimir tus datos en cualquier momento.
-
-
-
-
-
 
 <script data-require="leaflet@0.7.3" data-semver="0.7.3"
     src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js">
@@ -83,8 +69,6 @@ map.on('click', function (e) {
     document.getElementById('lng').value = e.latlng.lng;
   });
 </script>
-
-
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
