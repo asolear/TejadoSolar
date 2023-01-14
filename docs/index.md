@@ -16,8 +16,7 @@ hide:
 </center>
 
 
-<center><h3 style="color:blue;">
--
+<center><h3 style="color:orange;">
   - Estética mejorada.
   - Paneles antireflejos y totalmente negros.
 
