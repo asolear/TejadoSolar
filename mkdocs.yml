@@ -13,7 +13,7 @@ nav:
 
 theme:
   palette:
-    primary: white
+    primary: orange
 
   name: material
   language: es
