@@ -5,12 +5,28 @@ hide:
   - toc
 ---
 #
+<center><h1 style="color:orange;  
+  font-size: 222%; font-weight: 999">TEJADO SOLAR</h1></center>
 
-### [🚫 💶 Estudio gratuito](Diseno/coordenadas.md){ .md-button }
+<center>
+  
+[🚫 💶 Estudio gratuito](Diseno/coordenadas.md){ .md-button }
+[📞 ](tel:600366211){ .md-button }
+  
+</center>
+
+
+<center><h3 style="color:blue;">
+-
+  - Estética mejorada.
+  - Paneles antireflejos y totalmente negros.
+
+
+</h3></center>
+
 
 {==
 
-- Estética mejorada con paneles antireflejos y totalmente negros para reducir el impacto visual.
 
 ==}
 
