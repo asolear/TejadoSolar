@@ -71,8 +71,6 @@ hide:
 </div>
 
 
-
-
 ??? warning "Politica de Privacidad "
 
     En Proyecto Solar cumplimos con el RGPD (Reglamento General de Protección de Datos):

@@ -6,7 +6,7 @@ hide:
 ---
 #
 
-### [![Image title](image/electricity-1298849.svg){ align=left width=33}  Estudio gratuito](Diseno/coordenadas.md){ .md-button }
+### [🚫 💶 Estudio gratuito](Diseno/coordenadas.md){ .md-button }
 
 {==
 

@@ -1,5 +1,6 @@
-site_name: Tejado Solar      (Atención al cliente 600 366 211)
+site_name: Tejado Solar      ( 📞 600 366 211)
 site_url: https://asolear.es/TejadoSolar
+# 🗺💡💶🚫💯🆓📞☎️
 
 nav:
   - Home: index.md
@@ -11,22 +12,22 @@ nav:
   - Contacto: Diseno/coordenadas.md
 
 theme:
-  # palette:
-  #   primary: white
+  palette:
+    primary: white
 
   name: material
   language: es
   favicon: image/panel-158630.svg
   logo: image/panel-158630.svg
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - content.tabs.link
-    - navigation.top
-    - navigation.expand
-    - navigation.footer
-    - toc.integrate
+  # features:
+  #   - navigation.tabs
+  #   - navigation.tabs.sticky
+  #   - navigation.sections
+  #   - content.tabs.link
+  #   - navigation.top
+  #   - navigation.expand
+  #   - navigation.footer
+  #   - toc.integrate
     # - navigation.indexes
 markdown_extensions:
   - meta
@@ -65,4 +66,3 @@ extra:
       name: squidfunk on Twitter
 
 copyright: "Copyright 2023 Tejado Solar"
-# 🗺💡
