@@ -2,14 +2,16 @@ site_name: Tejado Solar
 site_url: https://asolear.es/TejadoSolar
 # 🗺💡💶🚫💯🆓📞☎️
 
-nav:
-  - Home: index.md
-  - Servicios: LandingPage/Servicios.md
-  - About Us: LandingPage/AboutUs.md
-  - Blog: 
-    - ¿Por qué esta apuesta por el autoconsumo?: LandingPage/Blog/¿Por qué esta apuesta por el autoconsumo?.md
-    - Cuando me sobra energía... ¿necesito baterías? ¿tengo que regalar la energía sobrante?: LandingPage/Blog/Cuando me sobra energía... ¿necesito baterías? ¿tengo que regalar la energía sobrante?.md
-  - Contacto: Diseno/coordenadas.md
+# nav:
+#   - Home: index.md
+#   - Servicios: LandingPage/Servicios.md
+#   - About Us: LandingPage/AboutUs.md
+#   - Permitting: Permitting
+#   - Blog: 
+#     - ¿Por qué esta apuesta por el autoconsumo?: LandingPage/Blog/¿Por qué esta apuesta por el autoconsumo?.md
+#     - Cuando me sobra energía... ¿necesito baterías? ¿tengo que regalar la energía sobrante?: LandingPage/Blog/Cuando me sobra energía... ¿necesito baterías? ¿tengo que regalar la energía sobrante?.md
+#   - Contacto: Diseno/coordenadas.md
+
 
 theme:
   palette:
