@@ -2,35 +2,23 @@ site_name: Tejado Solar
 site_url: https://asolear.es/TejadoSolar
 # 🗺💡💶🚫💯🆓📞☎️
 
-# nav:
-#   - Home: index.md
-#   - Servicios: LandingPage/Servicios.md
-#   - About Us: LandingPage/AboutUs.md
-#   - Permitting: Permitting
-#   - Blog: 
-#     - ¿Por qué esta apuesta por el autoconsumo?: LandingPage/Blog/¿Por qué esta apuesta por el autoconsumo?.md
-#     - Cuando me sobra energía... ¿necesito baterías? ¿tengo que regalar la energía sobrante?: LandingPage/Blog/Cuando me sobra energía... ¿necesito baterías? ¿tengo que regalar la energía sobrante?.md
-#   - Contacto: Diseno/coordenadas.md
-
 
 theme:
   palette:
-    primary: orange
-
+    primary: red
   name: material
   language: es
-  favicon: image/panel-158630.svg
-  logo: image/panel-158630.svg
-  # features:
-  #   - navigation.tabs
-  #   - navigation.tabs.sticky
-  #   - navigation.sections
-  #   - content.tabs.link
-  #   - navigation.top
-  #   - navigation.expand
-  #   - navigation.footer
-  #   - toc.integrate
-    # - navigation.indexes
+  favicon: assets/logo.svg
+  logo: assets/logo.svg
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.tabs.link
+    - navigation.top
+    - navigation.expand
+    - navigation.footer
+    - toc.integrate
+
 markdown_extensions:
   - meta
   - tables
@@ -52,7 +40,6 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/squidfunk
-      name: squidfunk on Twitter
     # - icon: fontawesome/brands/facebook
     #   link: https://twitter.com/squidfunk
     # - icon: fontawesome/brands/github
@@ -65,6 +52,6 @@ extra:
     #   link: https://twitter.com/squidfunk
     - icon: fontawesome/brands/telegram
       link: https://web.telegram.org/z/#-1851009774
-      name: squidfunk on Twitter
+# copyright: "Copyright 2023 Proyecto Solar"
 
-copyright: "Copyright 2023 Tejado Solar"
+# 🗺💡
